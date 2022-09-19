@@ -1,18 +1,19 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBCSG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Tayeb Ahmed</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
+
+- 🌱 I’m currently learning **Android, Flutter, IOS and also Coding**
+
+- 💬 Ask me about **I am Tayeb Ahmed from Bangladesh and I do Android & IOS Development using Flutter UI Toolkit. I also enjoy wireframing UI/UX as well as.**
+
+- 📫 How to reach me **tayebahmed97@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayeb66&label=Profile%20views&color=0e75b6&style=flat" alt="tayeb66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayeb66" alt="tayeb66" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tayebahmed97" target="blank"><img src="https://img.shields.io/twitter/follow/tayebahmed97?logo=twitter&style=for-the-badge" alt="tayebahmed97" /></a> </p>
-
-- 🌱 I’m currently learning **Android, Flutter, IOS**
-
-- 💬 Ask me about **I am Tayeb Ahmed from Bangladesh and I do Android & IOS Development using Flutter UI Toolkit. I also enjoy wireframing UI/UX as well as.**
-
-- 📫 How to reach me **tayebahmed97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
