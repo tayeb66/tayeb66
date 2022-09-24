@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tayeb Ahmed</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Android, Flutter, IOS and also Coding**
+- 🌱 I’m currently working & learning **Android, Flutter, IOS and also Coding**
 
 - 💬 Ask me about **I am Tayeb Ahmed from Bangladesh and I do Android & IOS Development using Flutter UI Toolkit. I also enjoy wireframing UI/UX as well as.**
 
