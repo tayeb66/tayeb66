@@ -14,7 +14,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayeb66" alt="tayeb66" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tayebahmed97" target="blank"><img src="https://img.shields.io/twitter/follow/tayebahmed97?logo=twitter&style=for-the-badge" alt="tayebahmed97" /></a> </p>
-<p align="left"> <a href="https://medium.com/@tayebahmed97" target="blank"><img src="https://img.shields.io/medium/follow/tayebahmed97?logo=medium&style=for-the-badge" alt="tayebahmed97" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
